@@ -7,6 +7,7 @@
 - GitHub: [HelgaAthame](https://github.com/HelgaAthame)
 - Telegram: HelgaAthame
 - Codewars: [Helga Atgame](https://www.codewars.com/users/HelgaAthame)
+
 ## About Myself
 I started getting interested in programming when I was in high school. \
 I have studied Photoshop, HTML, CSS on my own and started making websites.\
@@ -21,7 +22,7 @@ At the same time I was captivated by the exciting process of solving problems on
 In recent months, I started learning the React framework using [D. Trepachev's online tutorial.](http://old.code.mu/books/advanced/javascript/react/)\
 In addition, I have a master's degree in Art science. It makes me a versatile person.\
 I can organize my work schedule rationally and find time for music and exercise.\
-I came to RS School to get full and deep knowledge, do an internship, and also find a job as a Junior JS Front-end developer.\
+I came to RS School to get full and deep knowledge, do an internship, and also find a job as a Junior JS Front-end developer.
 
 #### My strengths:
 - I go to the end when others give up;
@@ -45,7 +46,9 @@ I came to RS School to get full and deep knowledge, do an internship, and also f
 + Unity/C# (basic knowledge)
 
 ## Code Exaple
+
 #### Permutations (from Codewars 4kyu)
+
 **Description:**
 In this kata you have to create all permutations of a non empty input string and remove duplicates, if present. This means, you have to shuffle all letters from the input in all possible orders.
 
@@ -74,11 +77,13 @@ function permutations(string) {
 ```
 
 ## Education
+
 #### University:
 - Belarusian State University of Culture and Art
    + Folk science. Diploma with honors.
 - Graduate School of the National Academy of Sciences
    + Art science. Master degree.
+
 #### Courses:
 - [SEO](https://proseo.by/kursy/)
 - [Performanse Optimization](https://training.epam.com/Training/Details/2957?lang=en)
@@ -90,7 +95,7 @@ function permutations(string) {
 - [React](http://old.code.mu/books/advanced/javascript/react/)
 
 ## Experience
-Site administrator of online store (3 years).
+Site administrator at online store (3 years).
 
 ## Languages:
 + English B1 (training by test result)
