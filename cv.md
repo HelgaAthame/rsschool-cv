@@ -1,13 +1,13 @@
-#Olga Khmaruk
+# Olga Khmaruk
 ![Olga Khmaruk](https://i.postimg.cc/pT8YHQT1/1556176377.jpg)
 
-##My Contact Info
+## My Contact Info
 - Phone: +375 (29) 601-71-88
 - E-mail: [athamethedarkest@gmail.com](mailto:athamethedarkest@gmail.com)
 - GitHub: [HelgaAthame](https://github.com/HelgaAthame)
 - Telegram: HelgaAthame
 - Codewars: [Helga Atgame](https://www.codewars.com/users/HelgaAthame)
-##About Me
+## About Myself
 I started getting interested in programming when I was in high school. \
 I have studied Photoshop, HTML, CSS on my own and started making websites.\
 I use keep learning.\
@@ -23,13 +23,13 @@ In addition, I have a master's degree in Art science. It makes me a versatile pe
 I can organize my work schedule rationally and find time for music and exercise.\
 I came to RS School to get full and deep knowledge, do an internship, and also find a job as a Junior JS Front-end developer.\
 
-####My strengths:
+#### My strengths:
 - I go to the end when others give up;
 - I find answers on my own when others ask too many questions;
 - I can work in a team and resolve conflicts;
 - I know the value of time and do everything on time.
 
-##Skills:
+## Skills:
 + HTML
 + CSS
 + JavaScript
@@ -44,8 +44,8 @@ I came to RS School to get full and deep knowledge, do an internship, and also f
 + Software Testing (basic knowledge)
 + Unity/C# (basic knowledge)
 
-##Code Exaple
-####Permutations (from Codewars 4kyu)
+## Code Exaple
+#### Permutations (from Codewars 4kyu)
 **Description:**
 In this kata you have to create all permutations of a non empty input string and remove duplicates, if present. This means, you have to shuffle all letters from the input in all possible orders.
 
@@ -73,26 +73,26 @@ function permutations(string) {
 }
 ```
 
-##Education
-####University:
+## Education
+#### University:
 - Belarusian State University of Culture and Art
    + Folk science. Diploma with honors.
 - Graduate School of the National Academy of Sciences
    + Art science. Master degree.
-####Courses:
+#### Courses:
 - [SEO](https://proseo.by/kursy/)
 - [Performanse Optimization](https://training.epam.com/Training/Details/2957?lang=en)
 - [JavaScript Front-end](https://rs.school/js/) (in process)
 
-####Self-education:
+#### Self-education:
 - [JavaScript](https://learn.javascript.ru/)
 - [Software Testing]()
 - [React](http://old.code.mu/books/advanced/javascript/react/)
 
-##Experience
+## Experience
 Site administrator of online store (3 years).
 
-##Languages:
+## Languages:
 + English B1 (training by test result)
 + Belarusian (native)
 + Russian
