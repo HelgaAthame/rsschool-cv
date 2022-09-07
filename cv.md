@@ -9,16 +9,16 @@
 - Codewars: [Helga Atgame](https://www.codewars.com/users/HelgaAthame)
 
 ## About Myself
-I started getting interested in programming when I was in high school. \
+I started getting interested in programming when I was in high school.\
 I have studied Photoshop, HTML, CSS on my own and started making websites.\
 I use keep learning.\
 I worked as a site administrator for an online store for three years, but I was always interested in programming.\
-To increase my knowledge and develop myself different ways I studied [SEO](https://proseo.by/kursy/) and [Performance Optimization](https://training.epam.com/Training/Details/2957?lang=en) courses. \
-I am interested in constantly deepening and expanding my knowledge. \
-I studied the basics of Software Testing using textbook by S.Kulikov. \
-A few of years ago I got interested in Unity and was involved in the development of a mini-game using C# code. \
-Over the past six months I have learned JavaScript on my own using [I. Kantor's online tutorial](https://learn.javascript.ru/). I also solved the problems suggested in this tutorial. \
-At the same time I was captivated by the exciting process of solving problems on [Codewars](https://www.codewars.com/users/HelgaAthame). I have reached 4 kyu level. \
+To increase my knowledge and develop myself different ways I studied [SEO](https://proseo.by/kursy/) and [Performance Optimization](https://training.epam.com/Training/Details/2957?lang=en) courses.\
+I am interested in constantly deepening and expanding my knowledge.\
+I studied the basics of Software Testing using textbook by S.Kulikov.\
+A few of years ago I got interested in Unity and was involved in the development of a mini-game using C# code.\
+Over the past six months I have learned JavaScript on my own using [I. Kantor's online tutorial](https://learn.javascript.ru/). I also solved the problems suggested in this tutorial.\
+At the same time I was captivated by the exciting process of solving problems on [Codewars](https://www.codewars.com/users/HelgaAthame). I have reached 4 kyu level.\
 In recent months, I started learning the React framework using [D. Trepachev's online tutorial.](http://old.code.mu/books/advanced/javascript/react/)\
 In addition, I have a master's degree in Art science. It makes me a versatile person.\
 I can organize my work schedule rationally and find time for music and exercise.\
